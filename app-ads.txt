@@ -1,1 +1,4 @@
+#Ads Rei da Conta
 google.com, pub-3704603628734008, DIRECT, f08047fec0942fa0
+#Ads LegendAi
+google.com, pub-3704603628734008, DIRECT, f08c47fec0942fa0
